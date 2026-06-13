@@ -13,7 +13,7 @@ A Money Heist (La Casa de Papel) themed front-end website built with HTML, CSS, 
 - JavaScript (Canvas API)
 
 ## How to Run
-[Click here to view demo](xyz)
+[Click here to view demo](https://raman12082005.github.io/miniProject_02-money-hiest/)
 
 ## Folder Structure
 ```
